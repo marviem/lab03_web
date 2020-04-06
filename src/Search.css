@@ -1,0 +1,42 @@
+
+.searchbar {
+	margin-top: -10px;
+	display: flex;
+}
+
+input::placeholder {
+	color: rgb(225, 225, 225);	
+}
+
+input {
+	display: inline-block;
+	width: 100%;
+	padding: 5px;
+	font-size: 20px;
+	box-sizing: border-box;
+	outline: none;
+	margin-bottom: 9px;
+	border: none;
+	border-radius: 5px;
+	background-color: rgb(250,250,250);
+}
+
+input:focus::-webkit-input-placeholder {
+    color:  rgb(195, 195, 195);
+}
+
+input:focus {
+	color: black;
+}
+
+i {
+	text-align: left;
+	width: 23px;
+}
+
+.fa-search {
+	display: inline;
+	padding-top: 10px;
+	font-size: 20px;
+	color: rgb(164, 139, 204);
+}

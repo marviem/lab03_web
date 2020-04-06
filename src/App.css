@@ -1,0 +1,229 @@
+.App {
+  text-align: center;
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+a {
+  color: rgb(197, 166, 247) !important;
+}
+
+.nav {
+  display: flex;
+  padding-left: 10px;
+  justify-content: flex-start;
+  background-color: rgb(197, 166, 247);
+}
+
+.nav-link.btn {
+  font-size: 25px;
+  padding-right: 10px;
+  color: white !important;
+  display: block;
+  border: 1.5px solid transparent;
+  border-radius: 0px;
+}
+
+.nav-link.btn:hover {
+  border: 1.5px rgb(255, 255, 255) solid;
+  font-weight: 50px;
+  color: rgb(255, 255, 255) !important;
+  text-decoration-line: none  !important;
+  text-decoration-style: initial !important;
+  text-decoration-color: initial !important;
+}
+
+.col-sm-3 {
+  padding-right: 25px !important;
+  padding-top: 20px;
+  background-color: rgb(250,250,250);
+}
+
+.col-sm-9 {
+  padding-left: 25px !important;
+  padding-top: 20px;
+}
+
+.card.col-6 {
+  max-width: 32% !important;
+}
+
+.card {
+  border: none !important;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+.card p {
+  text-align: left;
+}
+
+div.card-body > img {
+  max-width: 200px;
+  border-radius: 100%;
+  align-self: center;
+  margin-top: 7px;
+}
+
+.card-body {
+  padding: 0px !important;
+}
+
+.card .btn {
+  width: 47.5%;
+  color: black;
+  border: 1.5px solid black;
+  border-radius: 0px;
+}
+
+.card .btn:hover {
+  color: white !important;
+  background-color: rgb(197, 166, 247);
+  border-color: rgb(197, 166, 247);
+}
+
+small {
+  padding-top: 10px;
+  text-align: right;
+  color: rgb(128, 128, 128);
+}
+
+.btn-link:hover {
+  text-decoration-line: none  !important;
+  text-decoration-style: initial !important;
+  text-decoration-color: initial !important;
+}
+
+.btn.add {
+  font-size: 20px;
+  color: white;
+  background-color: rgb(197, 166, 247);
+  border: 1.5px solid rgb(197, 166, 247);
+  border-radius: 0px;
+  display: block;
+  width: 100%;
+}
+
+.btn.add:hover {
+  color: white;
+  background-color: rgb(164, 139, 204);
+  border-color: rgb(164, 139, 204);
+}
+
+.btn.sort {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 47.5%;
+  color: black;
+  border: 1.5px solid black;
+  border-radius: 0px;
+}
+
+.btn.sort:hover {
+  color: white;
+  background-color: rgb(197, 166, 247);
+  border-color: rgb(197, 166, 247);
+}
+
+.fa-arrow-up {
+  font-size: 20px;
+}
+
+.fa-arrow-down {
+  font-size: 20px;
+}
+
+.divider{
+  width: 5%;
+  height: auto;
+  display: inline-block;
+}
+
+.catsHeader {
+  font-size: 20px;
+  padding-bottom: 9px;
+  border-bottom: 1.5px solid black;
+}
+
+.btn.cats {
+  display: block;
+  padding: 10px;
+  font-size: 20px;
+  border: 1.5px solid transparent;
+  border-radius: 0px;
+}
+
+.cats:hover {
+  border: 1.5px solid black;
+  cursor: pointer;
+}
+
+.card.details {
+  width: 70%;
+  margin: auto;
+}
+
+.card.details img {
+  max-width: 200px;
+  border-radius: 100%;
+  align-self: center;
+  margin: 10px;
+}
+
+.card.details p {
+  font-size: 20px;
+  font-weight: 20px;
+}
+
+.card.details button {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 20px;
+}
+
+.card.edit {
+  width: 70%;
+  margin: auto;
+}
+
+.ip {
+  display: flex;
+}
+
+.card.edit p {
+  text-align: left;
+  font-size: 20px;
+}
+
+.fa-pencil {
+  padding-top: 10px;
+  font-size: 20px;
+  color: rgb(197, 166, 247);
+
+}
+
+input {
+	display: inline-block;
+	width: 100%;
+	padding: 5px;
+	font-size: 20px;
+	box-sizing: border-box;
+	outline: none;
+	margin-bottom: 9px;
+	border: none;
+  border-radius: 5px;
+  color: rgb(230, 230, 230);
+}
+
+form {
+  padding-bottom: 10px;
+}
+
+input:focus {
+  color: rgb(200, 200, 200);
+}

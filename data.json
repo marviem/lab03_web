@@ -1,0 +1,52 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Tiramisu",
+      "category": "Desserts",
+      "shortDesc": "The super-tasty Italian dessert with mascarpone cheese, coffee and savoiardi cake",
+      "longDesc": "Using an electric mixer in a medium bowl, whip together egg yolks and 0.25 cup grams sugar until very pale yellow and about tripled in volume. A slight ribbon should fall from the beaters (or whisk attachment) when lifted from the bowl. Transfer mixture to a large bowl, wiping out the medium bowl used to whip the yolks and set aside.\nIn the medium bowl, whip cream and remaining 1 / 4 cup / 50 grams sugar until it creates soft - medium peaks. Add mascarpone and continue to whip until it creates a soft, spreadable mixture with medium peaks.Gently fold the mascarpone mixture into the sweetened egg yolks until combined. \nCombine espresso and rum in a shallow bowl and set aside.\nUsing a sifter, dust the bottom of a 2 - quart baking dish(an 8 x8 - inch dish, or a 9 - inch round cake pan would also work here) with 1 tablespoon cocoa powder.\nWorking one at a time,quickly dip each ladyfinger into the espresso mixture--they are quite porous and will fall apart if left in the liquid too long--and place them rounded side up at the bottom of the baking dish.Repeat,using half the ladyfingers, until you’ ve got an even layer, breaking the ladyfingers in half as needed to fill in any obvious gaps(a little space in between is O.K.).Spread half the mascarpone mixture onto the ladyfingers in one even layer. Repeat with remaining espresso - dipped ladyfingers and mascarpone mixture.\nDust top layer with remaining tablespoon of cocoa powder.Top with shaved or finely grated chocolate, if desired.\nCover with plastic wrap and let chill in the refrigerator for at least 4 hours(if you can wait 24 hours, all the better) before slicing or scooping to serve.",
+      "createDate": "29/03/2020"
+    },
+    {
+      "id": 2,
+      "name": "Varenyky",
+      "category": "Main Dishes",
+      "shortDesc": "The dish of Ukraininan National Cuisine, made of dough and filling",
+      "longDesc": "Put one cup of flour into the deep bowl. Add salt.\nWarm up water till 30 - 35 degrees and add it to the bowl.Beat up one egg.Mix all ingredients thoroughly.\nAdd the second cup of flour and place the mixture on surface covered with flour.Knead the dough with your hands.If it is sticking add some flour.\nContinue kneading the dough until it becomes elastic.",
+      "createDate": "18/02/2020"
+    },
+    {
+      "id": 3,
+      "name": "Brownie",
+      "category": "Desserts",
+      "shortDesc": "Favorite dessert of many people, chocolate fantasy and sweet relax",
+      "longDesc": "Preheat oven to 350°F (175°C).\nLightly grease an 8 - inch square baking pan with cooking oil spray.Line with parchment paper(or baking paper);set aside.\nCombine hot melted butter, oil and sugar together in a medium - sized bowl.Whisk well for about a minute.Add the eggs and vanilla;beat until lighter in colour(another minute).\nSift in flour, cocoa powder and salt.Gently fold the dry ingredients into the wet ingredients until JUST combined(do NOT over beat as doing so well affect the texture of your brownies).\nPour batter into prepared pan, smoothing the top out evenly.(OPTIONAL: Top with chocolate chunks or chocolate chips.)\nBake for 20 - 25 minutes, or until the centre of the brownies in the pan no longer jiggles and is just set to the touch(the brownies will keep baking in the hot pan out of the oven).If testing with a toothpick, the toothpick should come out dirty for fudge - textured brownies.\nRemove and allow to cool to room temperature before slicing into 16 brownies.",
+      "createDate": "30/12/2019"
+    },
+    {
+      "id": 4,
+      "name": "Caesar with Chicken",
+      "category": "Salads",
+      "shortDesc": "Light salad to start your day or eat with a glass of wine",
+      "longDesc": "1 In a very large bowl, whisk together the olive oil and garlic. Let sit for half an hour.\n2 Make the toasted croutons: While the oil is sitting, make the croutons.Spread the baguette slices out over a baking sheet(may need to do inbatches), lined with parchment paper or a silicone mat.\nBrush or spray with olive oil(or melted butter, or if you want garlicky croutons, dip pastry brush in the garlic infused oil you have sitting in step 1). \nBroil for a couple of minutes until the tops are lightly browned.(Note: do not walk away, these can easily go from browned to burnt.) Remove and let cool.",
+      "createDate": "25/01/2020"
+    },
+    {
+      "id": 5,
+      "name": "Coffee Latte",
+      "category": "Hot drinks",
+      "shortDesc": "One of the most popular drinks in the world, toning you up and refreshing you",
+      "longDesc": "Make around 35ml espresso using your coffee machine and pour it into the base of your cup.\nSteam the milk with the steamer attachment so that it has around 2 - 3 cm of foam on top.Hold the jug so that the spout is about 3 - 4 cm above the cup and pour the milk in steadily.As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre.Once the milk jug is almost touching the surface of the coffee, tilt to speed up the rate of pour. As you accelerate, the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top.",
+      "createDate": "10/11/2019"
+    },
+    {
+      "id": "mxluucxj",
+      "name": "Soup",
+      "category": "Main Dishes",
+      "shortDesc": "To be updated",
+      "longDesc": "To be updated",
+      "createDate": "05/04/2020"
+    }
+  ]
+}
